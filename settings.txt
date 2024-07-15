@@ -1,0 +1,4 @@
+music_volume = 4
+sfx_volume = 4
+img_set = 4
+player_icon = 3

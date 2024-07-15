@@ -1,0 +1,15 @@
+Fade out by timer
+
+Time Limit on levels
+
+Key chasing
+
+Enemy avoidance
+
+Line of sight Enemies?
+
+Add score keeping
+
+Add highscore table
+
+Add Encryption for savegames

@@ -1,0 +1,117 @@
+
+
+2023-11-03 20:57:04.401698
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 20:57:26.539213
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 20:57:32.768991
+
+Setting save error: settings not saved on exit
+
+2023-11-03 20:58:06.022373
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 20:58:08.705089
+
+Save game failed for slot 1
+
+2023-11-03 21:00:01.308918
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:03:36.320364
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:05:56.960009
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:16:24.122277
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:16:28.623137
+
+Save game failed for slot 1
+
+2023-11-03 21:21:28.753536
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:21:31.206275
+
+Save game failed for slot 1
+
+2023-11-03 21:22:26.500241
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:22:29.839779
+
+Save game failed for slot 1
+
+2023-11-03 21:24:25.221129
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:24:29.359918
+
+Save game failed for slot 1
+
+2023-11-03 21:25:54.943403
+
+Save slot 1 file is corrupt or invalid.
+
+2023-11-03 21:25:57.371878
+
+Save game failed for slot 1
+
+2023-11-03 22:10:51.313932
+
+Failed to load game from slot 1
+
+2023-11-04 20:57:43.317424
+
+Save game failed for slot 4
+
+2023-11-04 21:13:37.286691
+
+Save slot 4 file is corrupt or invalid.
+
+2023-11-04 21:15:51.687129
+
+Save slot 4 file is corrupt or invalid.
+
+2023-11-04 21:19:02.602728
+
+Save slot 4 file is corrupt or invalid.
+
+2023-11-04 21:29:45.637664
+
+Save slot 4 file is corrupt or invalid.
+
+2023-11-16 15:30:52.617446
+
+Setting load error. Settings not loaded - default values applied
+
+2023-11-16 15:31:26.558371
+
+Setting load error. Settings not loaded - default values applied
+
+2023-11-16 15:32:22.433293
+
+Setting load error. Settings not loaded - default values applied
+
+2023-11-16 16:33:49.460761
+
+Failed to load game from slot 1
+
+2023-11-16 16:33:54.579294
+
+Failed to load game from slot 1
